@@ -10,7 +10,6 @@
  *
  *	Intellectual Property rights, and copyright, reserved by Funda WP
  *
- *
  * @package     FundaWP
  * @author      Funda WP
  * @category    Plugin
